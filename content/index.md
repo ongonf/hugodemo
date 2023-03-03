@@ -10,7 +10,7 @@ One two three
 
 ### Third Level Heading
 
-Once upon an uncertainty toolking day...
+Once upon an uncertainty toolkit day...
 
 #### Fourth Level Heading
 
