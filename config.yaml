@@ -2,7 +2,7 @@ baseURL: https://ongonf.github.io/hugodemo
 languageCode: en-gb
 title: My Site Title
 theme: govukhugo
-publishDir: docs
+publishDir: public
 canonifyurls: true
 
 markup:
