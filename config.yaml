@@ -13,6 +13,6 @@ markup:
 params:
   govuk: false
   logotext: ABC
-  product: Product Name
+  product: Uncertainty Toolkit for Analysts in Government Dummy
   phase: alpha
   feedbackurl: https://your.site/feedback/
